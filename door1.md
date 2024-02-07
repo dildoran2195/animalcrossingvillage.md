@@ -1,2 +1,2 @@
-## [The LEFT path which is an desserted island](/door2.md)
-## [The RIGHT path which will tell you joke from primary The Tempest by Cesaire](/door3.md)
+## [The LEFT path which is that you set it up](/door2.md)
+## [The RIGHT path which is that I will tell you joke](/door2.md)
