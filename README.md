@@ -11,7 +11,7 @@
 * [The LEFT path which is that you set it up](animal/door2.md)
 * [The RIGHT path which is that I will tell you joke](animal/door2.md)
 ![animal](https://github.com/dildoran2195/animalcrossingvillage.md/assets/146866632/1b337fe4-529a-449c-a35d-248859364866)
-
+[IGN](https://www.ign.com/wikis/animal-crossing-new-horizons/How_to_Get_Villager_Photos)
 ---
 
 * [This is our google drawing plan. Yellow boxes are mine and blue boxes are Samantha's.](https://docs.google.com/drawings/d/1kZ1M_gbZcA5oHdC3RMCjebOjnqbKjQl-qtuZ6vRujqA/edit?usp=drivesdk)
