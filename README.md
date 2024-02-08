@@ -14,8 +14,8 @@
 
 ---
 
-* [This is our google drawing plan. Yellow boxes are mine and blue boxes is Samantha's.](https://docs.google.com/drawings/d/1kZ1M_gbZcA5oHdC3RMCjebOjnqbKjQl-qtuZ6vRujqA/edit?usp=drivesdk)
+* [This is our google drawing plan. Yellow boxes are mine and blue boxes are Samantha's.](https://docs.google.com/drawings/d/1kZ1M_gbZcA5oHdC3RMCjebOjnqbKjQl-qtuZ6vRujqA/edit?usp=drivesdk)
 
   
 ---
-Made by [**Samantha **](https://github.com/kailys6690) and [**Xinyan Chen**](https://github.com/xinyanc3694)
+Made by [**Samantha L**](https://github.com/sammyl4231) and [**Dildora N**](https://github.com/dildoran2195)
