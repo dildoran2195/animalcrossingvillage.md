@@ -1,6 +1,6 @@
 # animalcrossingvillage.md
 
-# Welcome to Animal Crossing 
+# Welcome to Animal Crossing!
 
 ## Description
 #### In this project, we were assigned to create our own "Adventure" by using anything we have learned about Git and Github. We link files to other files using IDE and previewing it on Github. Since adventure is loaded on GitHub (linked to our IDE), we made a bunch of links on Github using IDE that will bring the user to another page which is known as a file path. For our project, we give you an adventure called "Animal Crossing Village!" In this adventure, you have entered a village that should be dessert that will take you to build village by your own choices out of dessert or you can enjoy my suprises. You are allow to chose any path that could determine the story plot from the given choices. Make good choices!
