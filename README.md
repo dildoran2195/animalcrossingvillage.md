@@ -14,7 +14,7 @@
 Photo credit to [IGN](https://www.ign.com/wikis/animal-crossing-new-horizons/How_to_Get_Villager_Photos)
 ---
 
-* [This is our google drawing plan. Yellow boxes are mine and blue boxes are Samantha's.](https://docs.google.com/drawings/d/1kZ1M_gbZcA5oHdC3RMCjebOjnqbKjQl-qtuZ6vRujqA/edit?usp=drivesdk)
+* [This is our google drawing plan. Yellow boxes are mine and blue boxes are Samantha's.](https://docs.google.com/drawings/d/1JjA4n7mHvOHoq--xEgEDcX7IIWqwjbahLugkGDY3ja4/edit?usp=drivesdk)
 
   
 ---
